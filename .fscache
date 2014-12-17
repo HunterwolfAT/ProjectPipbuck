@@ -1,0 +1,117 @@
+::res://::1418772723
+LittlePip.gd::GDScript::1418772723::
+LittlePip.scn::PackedScene::1418772682::
+icon.png::ImageTexture::1418762153::
+testscene.scn::PackedScene::1418762352::
+::res://LP_Parts::1418763394
+Cutie Mark.png::ImageTexture::1393074022::
+::res://LP_Parts/3Q::1418763393
+LPProfile - Hair - Tail.png::ImageTexture::1393097677::
+TS3Q ► ALL0001.png::ImageTexture::1393097837::
+TS3Q ► ALL0002.png::ImageTexture::1393097838::
+TS3Q ► ALL0018.png::ImageTexture::1393097839::
+TS3Q ► ALL0019.png::ImageTexture::1393097840::
+TS3Q ► ALL0020.png::ImageTexture::1393097841::
+TS3Q ► ALL0024.png::ImageTexture::1393097842::
+TS3Q ► B Leg FR ► Flank 2.png::ImageTexture::1393097756::
+TS3Q ► B Leg FR ► Hoof.png::ImageTexture::1393097779::
+TS3Q ► B Leg FR ► Joint OL.png::ImageTexture::1393097761::
+TS3Q ► B Leg FR ► Joint UL.png::ImageTexture::1393097767::
+TS3Q ► B Leg FR ► Leg.png::ImageTexture::1393097774::
+TS3Q ► B Leg NR ► Flank 2.png::ImageTexture::1393097655::
+TS3Q ► B Leg NR ► Hoof.png::ImageTexture::1393097743::
+TS3Q ► B Leg NR ► Joint OL.png::ImageTexture::1393097713::
+TS3Q ► B Leg NR ► Joint UL.png::ImageTexture::1393097730::
+TS3Q ► B Leg NR ► Leg.png::ImageTexture::1393097738::
+TS3Q ► F Leg FR ► T1 ► Hoof.png::ImageTexture::1393097706::
+TS3Q ► F Leg FR ► T1 ► Leg.png::ImageTexture::1393097701::
+TS3Q ► F Leg NR ► T1 ► Hoof.png::ImageTexture::1393097697::
+TS3Q ► F Leg NR ► T1 ► Leg.png::ImageTexture::1393097692::
+TS3Q ► Head ► ALL.png::ImageTexture::1393097620::
+TS3Q ► Neck 2.png::ImageTexture::1393097640::
+TS3Q ► Torso.png::ImageTexture::1393097648::
+::res://LP_Parts/3QB::1418763393
+LP3QBack - Torso 1.png::ImageTexture::1393260678::
+LP3QBack - Torso 2.png::ImageTexture::1393261448::
+LP3QBack - Torso.png::ImageTexture::1393260180::
+LPProfile - Hair - Tail.png::ImageTexture::1393162689::
+TS3Q ► B Leg FR ► Flank 2.png::ImageTexture::1393162667::
+TS3Q ► B Leg FR ► Hoof.png::ImageTexture::1393162639::
+TS3Q ► B Leg FR ► Joint OL.png::ImageTexture::1393162672::
+TS3Q ► B Leg FR ► Joint UL.png::ImageTexture::1393162676::
+TS3Q ► B Leg FR ► Leg.png::ImageTexture::1393162643::
+TS3Q ► B Leg NR ► Flank 3 back 1.png::ImageTexture::1393260694::
+TS3Q ► B Leg NR ► Flank 3 back 2.png::ImageTexture::1393260289::
+TS3Q ► B Leg NR ► Flank 3 back.png::ImageTexture::1393162654::
+TS3Q ► B Leg NR ► Hoof.png::ImageTexture::1393162634::
+TS3Q ► B Leg NR ► Joint OL.png::ImageTexture::1393162648::
+TS3Q ► B Leg NR ► Joint UL.png::ImageTexture::1393162660::
+TS3Q ► B Leg NR ► Leg.png::ImageTexture::1393162630::
+TS3Q ► Back0002.png::ImageTexture::1393162757::
+TS3Q ► F Leg FR ► T1 ► Hoof.png::ImageTexture::1393162622::
+TS3Q ► F Leg FR ► T1 ► Leg.png::ImageTexture::1393162625::
+TS3Q ► F Leg NR ► T1 ► Hoof.png::ImageTexture::1393162614::
+TS3Q ► F Leg NR ► T1 ► Leg.png::ImageTexture::1393162617::
+TS3Q ► Head Back ► ALL.png::ImageTexture::1393162604::
+TS3Q ► Neck 2.png::ImageTexture::1393162706::
+TS3Q ► Torso.png::ImageTexture::1393162696::
+TSProfile ► Belly ► ALL0002.png::ImageTexture::1393162702::
+::res://LP_Parts/Back::1418763394
+TSFront BACK0002.png::ImageTexture::1393165862::
+TSFront ► B Leg L ► Flank 2.png::ImageTexture::1393165641::
+TSFront ► B Leg L ► Joint OL.png::ImageTexture::1393165654::
+TSFront ► B Leg L ► Joint UL.png::ImageTexture::1393165659::
+TSFront ► B Leg L ► Leg.png::ImageTexture::1393165679::
+TSFront ► B Leg R ► Flank 2.png::ImageTexture::1393165634::
+TSFront ► B Leg R ► Joint OL.png::ImageTexture::1393165664::
+TSFront ► B Leg R ► Joint UL.png::ImageTexture::1393165668::
+TSFront ► B Leg R ► Leg.png::ImageTexture::1393165674::
+TSFront ► F Leg L ► T1 ► Hoof.png::ImageTexture::1393165742::
+TSFront ► F Leg L ► T1 ► Leg.png::ImageTexture::1393165714::
+TSFront ► F Leg NR ► T1 ► Hoof.png::ImageTexture::1393165722::
+TSFront ► F Leg NR ► T1 ► Leg.png::ImageTexture::1393165705::
+TSFront ► Head ► BACK.png::ImageTexture::1393165610::
+TSFront ► Neck 3.png::ImageTexture::1393165615::
+TSFront ► Torso 2.png::ImageTexture::1393165759::
+TSFront ► Torso OL.png::ImageTexture::1393165765::
+::res://LP_Parts/Front::1418763394
+LPFront - Hair - Tail.png::ImageTexture::1393159602::
+TSFront ► ALL0002.png::ImageTexture::1393159614::
+TSFront ► B Leg L ► Flank 2.png::ImageTexture::1393159499::
+TSFront ► B Leg L ► Hoof.png::ImageTexture::1393159523::
+TSFront ► B Leg L ► Joint OL.png::ImageTexture::1393159532::
+TSFront ► B Leg L ► Joint UL.png::ImageTexture::1393159537::
+TSFront ► B Leg L ► Leg.png::ImageTexture::1393159527::
+TSFront ► B Leg R ► Flank 2.png::ImageTexture::1393159494::
+TSFront ► B Leg R ► Hoof.png::ImageTexture::1393159544::
+TSFront ► B Leg R ► Joint OL.png::ImageTexture::1393159553::
+TSFront ► B Leg R ► Joint UL.png::ImageTexture::1393159558::
+TSFront ► B Leg R ► Leg.png::ImageTexture::1393159547::
+TSFront ► F Leg L ► T1 ► Hoof.png::ImageTexture::1393159518::
+TSFront ► F Leg L ► T1 ► Leg.png::ImageTexture::1393159514::
+TSFront ► F Leg NR ► T1 ► Hoof.png::ImageTexture::1393159509::
+TSFront ► F Leg NR ► T1 ► Leg.png::ImageTexture::1393159504::
+TSFront ► Head ► ALL.png::ImageTexture::1393159475::
+TSFront ► Neck 2.png::ImageTexture::1393159482::
+TSFront ► Torso 2.png::ImageTexture::1393159488::
+TSFront ► Torso OL.png::ImageTexture::1393159565::
+::res://LP_Parts/Profile::1418770675
+TSProfile ► ALL0002.png::ImageTexture::1393101403::
+TSProfile ► B Leg FR ► Flank.png::ImageTexture::1393101342::
+TSProfile ► B Leg FR ► Hoof.png::ImageTexture::1393101321::
+TSProfile ► B Leg FR ► Joint OL.png::ImageTexture::1418770674::
+TSProfile ► B Leg FR ► Joint UL.png::ImageTexture::1393101335::
+TSProfile ► B Leg FR ► Leg.png::ImageTexture::1418770674::
+TSProfile ► B Leg NR ► Flank.png::ImageTexture::1418770675::
+TSProfile ► B Leg NR ► Hoof.png::ImageTexture::1393101314::
+TSProfile ► B Leg NR ► Joint OL.png::ImageTexture::1418770675::
+TSProfile ► B Leg NR ► Joint UL.png::ImageTexture::1418770674::
+TSProfile ► B Leg NR ► Leg.png::ImageTexture::1418770675::
+TSProfile ► Belly ► ALL0002.png::ImageTexture::1393101234::
+TSProfile ► F Leg FR ► T1 ► Hoof.png::ImageTexture::1393101267::
+TSProfile ► F Leg FR ► T1 ► Leg.png::ImageTexture::1418765411::
+TSProfile ► F Leg NR ► T1 ► Hoof.png::ImageTexture::1418764697::
+TSProfile ► F Leg NR ► T1 ► Leg.png::ImageTexture::1418764697::
+TSProfile ► Head ► ALL.png::ImageTexture::1418765367::
+TSProfile ► Neck.png::ImageTexture::1418764697::
+TSProfile ► Torso.png::ImageTexture::1418764697::
